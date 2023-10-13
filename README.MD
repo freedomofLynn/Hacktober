@@ -1,5 +1,5 @@
 # HacktoberFest 2023 FOR YOUR `OPEN FIRST` Pull Request
-![HacktoberFest 2023](https://github.com/freedomoflynn/hacktober/blob/main/.github/hacktoberfest2023.png)
+![HacktoberFest 2023](https://github.com/freedomoflynn/hacktober/blob/main/hacktoberfest2023.png)
 
 
 ## This Project For Your First Pull Request
