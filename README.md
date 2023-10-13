@@ -42,10 +42,6 @@ projects/YOUR-PROJECT-NAME
 
 projects/YOUR-PROJECT-NAME
 ```
-- Or fixed in
-```
-pipeline-pattern/...
-```
 - Done!! ..
 
 ## 3. Wait for Pull Request to merge
